@@ -4,7 +4,7 @@
 * Me chamo Luís Jerônimo
 * Cursando Cîencia da Computação
 
-## MINHAS TECNOLOGIAS
+## SKILLS
 <div style = "display: inline_block">
 <img src="img/python.svg" alt="python">
       
