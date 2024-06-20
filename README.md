@@ -17,4 +17,9 @@
 <img src="img/laravel.svg" alt="Laravel">
 </div> 
 
+## ESTATÍSTICAS
+<div>  
+      <img height="160em" src="https://github-readme-stats.vercel.app/api?username=luisjro16&show_icons=true&theme=github_dark"/>
+      <img height="160em" src="https://github-readme-stats-gb9t.vercel.app/api/top-langs/?username=luisjro16&layout=compact&hide_border=true&show_icons=true&langs_count=6&theme=github_dark"/>
+</div>
 
