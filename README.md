@@ -15,6 +15,10 @@
 <img src="https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=MySQL&logoColor=white" alt="mysql">
 
 <img src="img/laravel.svg" alt="Laravel">
+
+<img src="img/HTML.svg" alt="HTML">
+
+<img src="img/CSS (1).svg" alt="CSS">
 </div> 
 
 ## ESTATÍSTICAS
