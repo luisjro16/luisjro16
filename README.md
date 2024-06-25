@@ -2,7 +2,7 @@
 
 ## SOBRE MIM
 * Me chamo Luís Jerônimo
-* Cursando Cîencia da Computação
+* Cursando Ciencia da Computação
 
 ## SKILLS
 <div style = "display: inline_block">
